@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BKMS_BOT1",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "bkmsmc351.mcsh.io",
+    "port": 13782,
     "version": "",
     "try-creative": false
   },
@@ -74,11 +74,11 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1518812151022620815/V7BEIlAFxQmFytaELVz3fvb-pdnpxRnvpcuOStTZaT6Ifi1EBv-0Yv7t5dAUh-Gcp3_A",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": false
+      "chat": true
     }
   },
   "chat": {
