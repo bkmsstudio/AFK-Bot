@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BKMS_BOT1",
+    "username": "_BKMS_",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "bkms1535"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to BANKCRAFT.!",
         "I like to play Minecraft!"
       ]
     },
@@ -44,7 +44,7 @@
   "movement": {
     "enabled": true,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
@@ -73,7 +73,7 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "https://discord.com/api/webhooks/1518812151022620815/V7BEIlAFxQmFytaELVz3fvb-pdnpxRnvpcuOStTZaT6Ifi1EBv-0Yv7t5dAUh-Gcp3_A",
     "events": {
       "connect": true,
