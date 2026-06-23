@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bkmsdev.aternos.me",
+    "ip": "193.56.156.220",
     "port": 60259,
     "version": "",
     "try-creative": false
